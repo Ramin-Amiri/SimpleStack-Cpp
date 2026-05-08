@@ -1,10 +1,10 @@
-# 📚 SimpleStack — C++ Stack Implementation
+#  SimpleStack — C++ Stack Implementation
 
 A beginner-friendly demonstration of the **Stack data structure** in C++, modeled as a word-typing simulator with undo functionality.
 
 ---
 
-## 📖 About
+##  About
 
 This project implements a fixed-size stack using a plain array in C++. It uses the analogy of **typing and undoing words** to make the classic LIFO (Last In, First Out) concept easy to understand.
 
@@ -12,7 +12,7 @@ No STL, no dynamic memory — just the raw logic of a stack from scratch.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - `push(word)` — Add a word to the top of the stack (like typing)
 - `pop()` — Remove the most recent word (like pressing Ctrl+Z)
@@ -22,7 +22,7 @@ No STL, no dynamic memory — just the raw logic of a stack from scratch.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 A stack follows **LIFO** — the last item added is the first one removed.
 
@@ -38,7 +38,7 @@ The internal `top` pointer starts at `-1` (empty) and moves up/down as items are
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A C++ compiler (g++, clang++, or MSVC)
@@ -73,7 +73,7 @@ SimpleStack/
 
 ---
 
-## 📌 Concepts Demonstrated
+##  Concepts Demonstrated
 
 | Concept | Description |
 |---|---|
@@ -85,7 +85,7 @@ SimpleStack/
 
 ---
 
-## 🎯 Who Is This For?
+##  Who Is This For?
 
 - Students learning **Data Structures** for the first time
 - Anyone studying for a **Computer Engineering** course
@@ -93,6 +93,6 @@ SimpleStack/
 
 ---
 
-## 📜 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
